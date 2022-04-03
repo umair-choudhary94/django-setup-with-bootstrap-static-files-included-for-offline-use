@@ -1,0 +1,1 @@
+# django-setup-with-bootstrap-static-files-included-for-offline-use
